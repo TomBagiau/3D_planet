@@ -12,5 +12,5 @@
 6. And finally open your Terminal or Command Prompt on root directroy and type: npm start
 
 7. It will open your default browser and you will able to see the output.# Earth-Three-js
-# Earth
+
 # 3D_planet
